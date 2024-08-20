@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
-`![Video Walkthrough](./assets/creatorverse.gif)`
+![Video Walkthrough](/assets/creatorverse.gif)
 Here's a walkthrough of implemented required features:
 
 👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
